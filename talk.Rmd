@@ -1,0 +1,77 @@
+---
+title: "Inteligência Artificial e Empreendedorismo"
+author: "Charles Novaes de Santana"
+date: "28/05/2020"
+output:
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+    transition: slower
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Inteligência Artificial
+
+## Alan Turing
+
+- Turn off alarm
+- Get out of bed
+
+## Primeiros passos da IA
+
+- Eat eggs
+- Drink coffee
+
+# IA é sobre Dados
+
+## Machine Learning
+
+- Eat spaghetti
+- Drink wine
+
+## Modelos Supervisionados
+
+## Modelos Não-supervisionados
+
+## Modelos de Reforço
+
+# Empreendedorismo e IA
+
+## Matemática, Computação e Negócio
+
+## Netflix e outras grandes
+
+## Logística
+
+## Lawtech
+
+## Biotech
+
+## Fintech
+
+## Marketing
+
+
+# Ética e IA
+
+## Erros em modelos
+
+## Erros em empreendimentos
+
+----
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
+## Future Steps {#future-steps .emphasized}
