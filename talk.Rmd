@@ -64,14 +64,3 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ----
 
-## Going to sleep
-
-- Get in bed
-- Count sheep
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
-
-## Future Steps {#future-steps .emphasized}
